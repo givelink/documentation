@@ -2,6 +2,9 @@
 
 1. Copy the html code that it is provided in the [Charity Interface](https://ci.givelink.app).
 
+![Copy Code](/assets/ci-1.png)
+![Copy Code](/assets/ci-2.png)
+
 2. Paste it into your website where you want the button to appear
 
 3. Add a button or link that has `onClick={() => window.Givelink?.open?.()}` or has the class `givelink-button`.

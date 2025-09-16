@@ -1,6 +1,10 @@
 # WordPress Integration
 
 1. Copy the html code that it is provided in the [Charity Interface](https://ci.givelink.app).
+
+![Copy Code](/assets/ci-1.png)
+![Copy Code](/assets/ci-2.png)
+
 2. Go to your WordPress admin panel and log in.
 3. Navigate to the page or post where you want to add the donation button.
 
