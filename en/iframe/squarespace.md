@@ -25,21 +25,8 @@
 
 ![Code Injection Open](/assets/squarespace/squarespace-open-custom-code.png)
 
-9. Paste inside the `Header` section the following:
-
-```HTML
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('a[href*="givelink-button"]')
-        .forEach(function (btn) {
-            btn.classList.add('givelink-button');
-        });
-});
-</script>
-```
-
-10. Paste inside the `Footer` section the script provided by the step 1.
+9. Paste inside the `Footer` section the script provided by the step 1.
 
 ![Code Injection](/assets/squarespace/squarespace-code-injection.png)
 
-9. Save changes and publish when you are ready.
+10. Save changes and publish when you are ready.
