@@ -7,13 +7,13 @@
 ![Copy Code](/assets/ci-2.png)
 
 2. Go to your Squarespace edit panel.
-3. Navigate to `Website > Pages` the page where you want to add the donation button.
+3. Navigate to From `Website > Pages`, select the page you want to add the button to and click "Edit"
 
-4. Add a new button.
+4. Select Add Block on the top left, then Button
 
 ![Add Button](/assets/squarespace/squarespace-add-button.png)
 
-5. Click on the button to edit its text and change it to something like "Donate Now".
+5. Place the button on the page. Feel free to customize colors & font according to your site. Make sure the Call-To-Action is <strong>"Give in-kind"</strong>, <strong>"View our Needs"</strong> or something else similar.
 
 6. On the links add the following url: `#givelink-button`. and make sure to remove the `Open in new tab` option.
 

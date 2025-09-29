@@ -21,7 +21,7 @@
 
 ![Add Button Block](/assets/wp/wp-button-insert.png)
 
-7. Click on the button to edit its text and change it to something like "Donate Now".
+7. Place the button on the page. Feel free to customize colors & font according to your site. Make sure the Call-To-Action is <strong>"Give in-kind"</strong>, <strong>"View our Needs"</strong> or something else similar.
 
 8. With the button selected, on the right side, click on advanced and add on Additional css class(es) the following: `givelink-button`.
 
