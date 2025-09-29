@@ -1,22 +1,14 @@
 # WordPress Integration
 
-1. Copy the html code that it is provided by the following ways.
+1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-   ### Option 1: Without access to charity interface.
-
-   Navigate to our [Charity List](https://givelink.app/charities/widget-gen) and <strong>select</strong> the non profit that you want to promote
-   
    ![Copy Code](/assets/widget-gen.png)
 
-   ### Option 2: With access to [Charity Interface](https://ci.givelink.app)
+2. Go to your WordPress admin panel and log in.
 
-   ![Copy Code](/assets/ci-1.png)
-   ![Copy Code](/assets/ci-2.png)
+3. Navigate to the page or post where you want to add the donation button.
 
-3. Go to your WordPress admin panel and log in.
-4. Navigate to the page or post where you want to add the donation button.
-
-5. Add a new Custom HTML block by clicking the "+" button and selecting "Custom HTML" from the block options.
+4. Add a new Custom HTML block by clicking the "+" button and selecting "Custom HTML" from the block options.
 
 ![Add Custom HTML Block](/assets/wp/wp-code-insert.png)
 

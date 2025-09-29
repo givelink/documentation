@@ -1,10 +1,8 @@
 # Squarespace Integration
 
-1. Copy the html code that it is provided in the [Charity Interface](https://ci.givelink.app).
+1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-![Copy Code](/assets/ci-1.png)
-
-![Copy Code](/assets/ci-2.png)
+   ![Copy Code](/assets/widget-gen.png)
 
 2. Go to your Squarespace edit panel.
 3. Navigate to From `Website > Pages`, select the page you want to add the button to and click "Edit"
