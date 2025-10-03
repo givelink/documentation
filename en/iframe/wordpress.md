@@ -1,11 +1,11 @@
 # WordPress Integration
 
-1. Copy the html code that it is provided in the [Charity Interface](https://ci.givelink.app).
+1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-![Copy Code](/assets/ci-1.png)
-![Copy Code](/assets/ci-2.png)
+   ![Copy Code](/assets/widget-gen.png)
 
 2. Go to your WordPress admin panel and log in.
+
 3. Navigate to the page or post where you want to add the donation button.
 
 4. Add a new Custom HTML block by clicking the "+" button and selecting "Custom HTML" from the block options.
@@ -21,7 +21,7 @@
 
 ![Add Button Block](/assets/wp/wp-button-insert.png)
 
-7. Click on the button to edit its text and change it to something like "Donate Now".
+7. Place the button on the page. Feel free to customize colors & font according to your site. Make sure the Call-To-Action is <strong>"Give in-kind"</strong>, <strong>"View our Needs"</strong> or something else similar.
 
 8. With the button selected, on the right side, click on advanced and add on Additional css class(es) the following: `givelink-button`.
 
