@@ -1,6 +1,6 @@
 # Wix Integration
 
-Follow [this](https://youtu.be/AjSbpcc2uSE) step by step video, or read the steps below:
+Follow the steps below:
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
