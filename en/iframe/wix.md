@@ -33,11 +33,9 @@ $w.onReady(function () {
 
 ![Custom code Element](/assets/wix/custom_code_element.png)
 
-![Custom code Page](/assets/wix/custom_code_page.png)
-
-
-
 9. Add to a new Custom code element in the body start section, paste the code you copied on step 1 and then hit apply.
+
+![Custom code Page](/assets/wix/custom_code_page.png)
 
 ![Add Code](/assets/wix/add_code.png)
 
