@@ -53,19 +53,6 @@ The Givelink Widget enables nonprofits to add donation buttons to their websites
 
 ---
 
-## ✨ Features
-
-- ✅ **Zero Configuration** - Get started in minutes, no API keys required
-- ✅ **Multi-Platform** - WordPress, Squarespace, Wix, or any custom website
-- ✅ **Mobile Optimized** - Fully responsive donation experience
-- ✅ **Secure Payments** - PCI-compliant payment processing
-- ✅ **Easy Customization** - Match your organization's branding
-- ✅ **In-Kind Donations** - Accept both monetary and item donations
-- ✅ **Analytics** - Track donation metrics and donor information
-- ✅ **Multi-Language Support** - Support for multiple languages (coming soon)
-
----
-
 ## 📦 Installation Guide
 
 ### Step 1: Get Your Widget Code
@@ -272,33 +259,6 @@ documentation/
 
 ---
 
-## 🗺️ Roadmap
-
-### Q2 2026
-- [x] Core documentation complete
-- [x] Troubleshooting guide
-- [x] Video tutorials for all platforms
-- [ ] Spanish language translation
-- [ ] French language translation
-
-### Q3 2026
-- [ ] Advanced customization guide
-- [ ] API reference documentation
-- [ ] Interactive setup wizard
-- [ ] Community showcases
-
-### Q4 2026
-- [ ] Multi-language selector
-- [ ] Mobile app integration guide
-- [ ] Donation analytics dashboard tutorial
-
-### Future
-- [ ] SDK/Plugin for popular platforms
-- [ ] Webhook documentation
-- [ ] Organization case studies
-
----
-
 ## 🤝 Contributing
 
 We welcome all contributions! Help us improve documentation for everyone.
@@ -323,37 +283,6 @@ Track all documentation updates: **[View Full Changelog →](CHANGELOG.md)**
 | **1.2.0** | Apr 2026 | Added troubleshooting, security docs, code of conduct |
 | **1.1.0** | Mar 2026 | Video tutorials, TypeScript support |
 | **1.0.0** | Mar 2026 | Initial release |
-
----
-
-## 📊 Documentation Stats
-
-| Metric | Value |
-|--------|-------|
-| Integration Guides | 4 platforms |
-| Video Tutorials | 4 |
-| FAQ Entries | 13 |
-| Troubleshooting Topics | 15+ |
-| Best Practices Tips | 10+ |
-| Last Updated | April 4, 2026 |
-
----
-
-## 📞 Support
-
-### Getting Help
-
-- 📧 **Email:** contact@givelink.app
-- 💬 **GitHub Discussions:** [Ask questions](https://github.com/givelink/documentation/discussions)
-- 🐛 **Bug Reports:** [Create an issue](https://github.com/givelink/documentation/issues)
-
-### Before Contacting Support
-
-1. Check the [Troubleshooting Guide](en/iframe/troubleshooting.md)
-2. Review the [FAQ](#frequently-asked-questions)
-3. Search [existing GitHub issues](https://github.com/givelink/documentation/issues)
-
----
 
 ## 🔗 Quick Links
 
