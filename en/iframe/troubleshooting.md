@@ -58,4 +58,4 @@
 
 ## Further Assistance
 - Check the official documentation for more detailed troubleshooting.
-- Reach out to support forums or communities for help.
+- Reach out to support forums or communities for help.](https://github.com/givelink/documentation/pull/6/commits)
