@@ -68,10 +68,9 @@
 
 | Platform | Duration | Link |
 |----------|----------|------|
-| 📱 **WordPress** | 5 min | [YouTube](https://youtu.be/_UqKMOnC1_0) |
-| 🏗️ **Squarespace** | 5 min | [YouTube](https://youtu.be/AjSbpcc2uSE) |
-| 🏢 **Wix** | 10 min | [Playlist](https://www.youtube.com/playlist?list=PLeu_5se06HKGfhhxDJSf2lBgF6tU2XRTW) |
-| 💻 **Native JavaScript** | 7 min | [YouTube](https://youtu.be/RYr3XJ6BTF4) |
+| 📱 **WordPress** | 3 min | [YouTube](https://youtu.be/_UqKMOnC1_0) |
+| 🏗️ **Squarespace** | 3 min | [YouTube](https://youtu.be/AjSbpcc2uSE) |
+| 💻 **Native JavaScript** | 3 min | [YouTube](https://youtu.be/RYr3XJ6BTF4) |
 
 ---
 
