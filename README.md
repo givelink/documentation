@@ -129,6 +129,8 @@ This documentation is licensed under the MIT License.
 
 **Made with ❤️ by the Givelink Team**
 
+*Helping nonprofits accept donations online, effortlessly.*
+
 **[Visit Givelink.app](https://givelink.app)** • **[Dashboard](https://givelink.app/dashboard)** • **[Support](mailto:contact@givelink.app)**
 
 </div>
