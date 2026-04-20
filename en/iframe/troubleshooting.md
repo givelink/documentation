@@ -2,10 +2,6 @@
 
 ## Common Issues and Solutions
 
-### WordPress
-- **Issue:** Widget not displaying.
-- **Solution:** Ensure that the widget is activated in the Widgets section under Appearance.
-
 - **Issue:** Plugin conflicts.
 - **Solution:** Deactivate other plugins to identify conflicts.
 
@@ -24,10 +20,6 @@
 - Check the console for errors.
 - Ensure that the network requests are being made successfully.
 - Reload the page and clear cache.
-
-## Styling Problems
-- Inspect the widget using developer tools to identify styling conflicts.
-- Ensure CSS files are being loaded correctly.
 
 ## Payment Errors
 - Check if payment gateways are properly configured.
