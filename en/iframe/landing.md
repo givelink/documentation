@@ -13,11 +13,10 @@
 ## 🚀 Quick Start
 
 ### Step 1: Get Your Widget Code
-1. Log in to your [Givelink Dashboard](https://givelink.app)
-2. Navigate to "Charities" → "Widget Generator"
-3. Select the nonprofit you want to promote
-4. Click "Copy Code"
-5. Your embed code is now ready to use!
+1. Log in to your [Givelink Dashboard](https://givelink.app/en/charities/widget-gen))
+2. Select the nonprofit you want to promote
+3. Click "Copy Code"
+4. Your embed code is now ready to use!
 
 ### Step 2: Choose Your Platform
 
@@ -26,7 +25,7 @@
 | **WordPress** | 5 min | Beginner | [View Guide →](wordpress.md) |
 | **Squarespace** | 5 min | Beginner | [View Guide →](squarespace.md) |
 | **Wix** | 5 min | Beginner | [View Guide →](wix.md) |
-| **Custom Website** | 10 min | Intermediate | [View Guide →](native.md) |
+| **Custom Website** | 10 min | Beginner | [View Guide →](native.md) |
 
 ---
 
@@ -64,22 +63,7 @@
 
 ---
 
-## 🎬 Video Tutorials
-
-| Platform | Duration | Link |
-|----------|----------|------|
-| 📱 **WordPress** | 3 min | [YouTube](https://youtu.be/_UqKMOnC1_0) |
-| 🏗️ **Squarespace** | 3 min | [YouTube](https://youtu.be/AjSbpcc2uSE) |
-| 💻 **Native JavaScript** | 3 min | [YouTube](https://youtu.be/RYr3XJ6BTF4) |
-
----
-
 ## 🆘 Troubleshooting
-
-**Widget not displaying?**
-- Verify you copied the complete code from Givelink
-- Check browser console for JavaScript errors
-- Clear browser cache and reload
 
 **Button not working?**
 - Ensure the button has the correct class or onclick handler
