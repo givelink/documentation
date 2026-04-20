@@ -28,7 +28,3 @@
 ## Integration Conflicts
 - Check for conflicting libraries in your codebase.
 - Review console logs for any integration-related errors.
-
-## Further Assistance
-- Check the official documentation for more detailed troubleshooting.
-- Reach out to support forums or communities for help.
