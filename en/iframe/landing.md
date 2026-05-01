@@ -5,7 +5,7 @@
 | **Add widget to WordPress** | [WordPress Guide](wordpress.md) |
 | **Add widget to Squarespace** | [Squarespace Guide](squarespace.md) |
 | **Add widget to Wix** | [Wix Guide](wix.md) |
-| **Custom website (JavaScript)** | [JavaScript Guide](native.md) |
+| **Add widget to Custom website (JavaScript)** | [JavaScript Guide](native.md) |
 | **Fix a problem** | [Troubleshooting](troubleshooting.md) |
 
 ---
@@ -13,7 +13,7 @@
 ## 🚀 Quick Start
 
 ### Step 1: Get Your Widget Code
-1. Log in to your [Givelink Dashboard](https://givelink.app/en/charities/widget-gen))
+1. Check this [Givelink Dashboard](https://givelink.app/en/charities/widget-gen)
 2. Select the nonprofit you want to promote
 3. Click "Copy Code"
 4. Your embed code is now ready to use!
@@ -57,7 +57,7 @@
 
 ### Native JavaScript
 **Best for:** Developers or custom websites
-**Time:** 10 minutes | **Difficulty:** Intermediate
+**Time:** 10 minutes | **Difficulty:** Beginner
 
 [📖 View Full Guide →](native.md) | [🎥 Watch Video →](https://youtu.be/RYr3XJ6BTF4)
 
@@ -80,7 +80,7 @@ A: Givelink supports WordPress, Squarespace, Wix, and any custom website. If you
 A: Yes! Simply add the button code multiple times on the same page.
 
 **Q: Which platform is easiest to set up?**
-A: WordPress and Squarespace are equally easy (5 minutes). Wix takes 10 minutes due to Dev Mode setup.
+A: WordPress, Wix, and Squarespace are equally easy (5 minutes).
 
 ### Technical Questions
 
@@ -93,7 +93,7 @@ A: Absolutely! The widget is fully responsive and mobile-optimized.
 ### Troubleshooting Questions
 
 **Q: The widget isn't showing on my page. What do I do?**
-A: Check our [Troubleshooting Guide](en/iframe/troubleshooting.md) for platform-specific solutions.
+A: Check our [Troubleshooting Guide](/troubleshooting.md) for platform-specific solutions.
 
 **Q: Still stuck?**
 A: Contact support at contact@givelink.app or [create an issue on GitHub](https://github.com/givelink/documentation/issues).
@@ -122,7 +122,7 @@ A: Contact support at contact@givelink.app or [create an issue on GitHub](https:
 
 ### Mobile Optimization
 
-- Ensure button is thumb-friendly (minimum 44x44px)
+- Ensure button is thumb-friendly
 - Test on phones and tablets
 - Use responsive sizing
 
