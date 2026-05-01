@@ -1,16 +1,20 @@
-# documentation
+# Documentation
 
-# 🤝 Givelink Widget Documentation
+Givelink's Official Documentation
 
-> **Official integration guide for the Givelink Donation Widget** - Add donation functionality to your website in minutes with zero coding required.
+---
+
+## 📖 Contents
+
+| Topic | Link |
+|-------|------|
+| **Widget Integration** | [Widget Guide](en/iframe/landing.md) |
 
 ---
 
 ## 🤝 Contributing
 
 We welcome all contributions! Help us improve documentation for everyone.
-
-### Quick Ways to Contribute
 
 - **Found a typo?** Click ✏️ on any page to edit
 - **Have a suggestion?** [Create an issue](https://github.com/givelink/documentation/issues)
@@ -21,6 +25,6 @@ We welcome all contributions! Help us improve documentation for everyone.
 
 **Made with ❤️ by the Givelink Team**
 
-**[Visit Givelink.app](https://givelink.app)** • **[Support](mailto:contact@givelink.app)**
+**[Givelink.app](https://givelink.app)** • **[Support](mailto:contact@givelink.app)**
 
 </div>
