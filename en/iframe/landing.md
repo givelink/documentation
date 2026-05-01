@@ -93,7 +93,7 @@ A: Absolutely! The widget is fully responsive and mobile-optimized.
 ### Troubleshooting Questions
 
 **Q: The widget isn't showing on my page. What do I do?**
-A: Check our [Troubleshooting Guide](/troubleshooting.md) for platform-specific solutions.
+A: Check our [Troubleshooting Guide](troubleshooting.md) for platform-specific solutions.
 
 **Q: Still stuck?**
 A: Contact support at contact@givelink.app or [create an issue on GitHub](https://github.com/givelink/documentation/issues).
