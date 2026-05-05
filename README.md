@@ -16,7 +16,6 @@ Givelink's Official Documentation
 
 We welcome all contributions! Help us improve documentation for everyone.
 
-- **Found a typo?** Click ✏️ on any page to edit
 - **Have a suggestion?** [Create an issue](https://github.com/givelink/documentation/issues)
 
 ---
