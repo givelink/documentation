@@ -26,7 +26,7 @@
 
 ## Χρειάζεστε βοήθεια;
 
-Χαρούμενοι να βοηθήσουμε! Επικοινωνήστε μαζί μας:
+Θα χαρούμε να σας βοηθήσουμε! Επικοινωνήστε μαζί μας εδώ:
 
 - 📧 Email: [contact@givelink.app](mailto:contact@givelink.app)
 - 🐛 Αναφορά προβλήματος: [GitHub Issues](https://github.com/givelink/documentation/issues)
