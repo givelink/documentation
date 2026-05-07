@@ -4,7 +4,7 @@ Follow [this](https://youtu.be/AjSbpcc2uSE) step by step video, or read the step
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-   ![Copy Code](/assets/widget-gen.png)
+   ![Copy Code](/assets/widget-assets-english.png)
 
 2. Go to your Squarespace edit panel.
 3. Navigate to From `Website > Pages`, select the page you want to add the button to and click "Edit"
