@@ -1,6 +1,6 @@
 # Documentation
 
-**Language / Γλώσσα:** [English](en/iframe/landing.md) | [Ελληνικά](el/README.md)
+**Language:** [English](en/iframe/landing.md) | [Greek](el/README.md)
 
 Givelink's Official Documentation
 
