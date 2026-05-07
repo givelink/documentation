@@ -6,7 +6,7 @@
 | **Προσθέσετε το widget στο Squarespace** | [Οδηγός Squarespace](squarespace.md) |
 | **Προσθέσετε το widget στο Wix** | [Οδηγός Wix](wix.md) |
 | **Προσθέσετε το widget σε προσαρμοσμένη ιστοσελίδα (JavaScript)** | [Οδηγός JavaScript](native.md) |
-| **Αντιμετώπιση Προβλημάτων** | [Αντιμετώπιση Προβλημάτων](troubleshooting.md) |
+| **Αντιμετώπισετε κάποιο πρόβλημα** | [Αντιμετώπιση Προβλημάτων](troubleshooting.md) |
 
 ---
 
