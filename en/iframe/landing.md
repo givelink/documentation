@@ -5,7 +5,7 @@
 | **Add widget to WordPress** | [WordPress Guide](wordpress.md) |
 | **Add widget to Squarespace** | [Squarespace Guide](squarespace.md) |
 | **Add widget to Wix** | [Wix Guide](wix.md) |
-| **Custom website (JavaScript)** | [JavaScript Guide](native.md) |
+| **Add widget to Custom website (JavaScript)** | [JavaScript Guide](native.md) |
 | **Fix a problem** | [Troubleshooting](troubleshooting.md) |
 
 ---
@@ -13,11 +13,10 @@
 ## 🚀 Quick Start
 
 ### Step 1: Get Your Widget Code
-1. Log in to your [Givelink Dashboard](https://givelink.app)
-2. Navigate to "Charities" → "Widget Generator"
-3. Select the nonprofit you want to promote
-4. Click "Copy Code"
-5. Your embed code is now ready to use!
+1. Check this [Givelink Dashboard](https://givelink.app/en/charities/widget-gen)
+2. Select the nonprofit you want to promote
+3. Click "Copy Code"
+4. Your embed code is now ready to use!
 
 ### Step 2: Choose Your Platform
 
@@ -25,8 +24,8 @@
 |----------|-----------|-----------|------------|
 | **WordPress** | 5 min | Beginner | [View Guide →](wordpress.md) |
 | **Squarespace** | 5 min | Beginner | [View Guide →](squarespace.md) |
-| **Wix** | 10 min | Beginner | [View Guide →](wix.md) |
-| **Native JavaScript** | 10 min | Intermediate | [View Guide →](native.md) |
+| **Wix** | 5 min | Beginner | [View Guide →](wix.md) |
+| **Custom Website** | 10 min | Beginner | [View Guide →](native.md) |
 
 ---
 
@@ -50,36 +49,94 @@
 
 ### Wix
 **Best for:** Nonprofits using Wix
-**Time:** 10 minutes | **Difficulty:** Beginner (no coding required)
+**Time:** 5 minutes | **Difficulty:** Beginner (no coding required)
 
-[📖 View Full Guide →](wix.md) | [🎥 Watch Video →](https://www.youtube.com/playlist?list=PLeu_5se06HKGfhhxDJSf2lBgF6tU2XRTW)
+[📖 View Full Guide →](wix.md) 
 
 ---
 
 ### Native JavaScript
 **Best for:** Developers or custom websites
-**Time:** 10 minutes | **Difficulty:** Intermediate
+**Time:** 10 minutes | **Difficulty:** Beginner
 
 [📖 View Full Guide →](native.md) | [🎥 Watch Video →](https://youtu.be/RYr3XJ6BTF4)
 
 ---
 
-## 🎬 Video Tutorials
+## ❓ Frequently Asked Questions
 
-| Platform | Duration | Link |
-|----------|----------|------|
-| 📱 **WordPress** | 3 min | [YouTube](https://youtu.be/_UqKMOnC1_0) |
-| 🏗️ **Squarespace** | 3 min | [YouTube](https://youtu.be/AjSbpcc2uSE) |
-| 💻 **Native JavaScript** | 3 min | [YouTube](https://youtu.be/RYr3XJ6BTF4) |
+### General Questions
+
+**Q: Do I need to be a developer to use Givelink?**
+A: No! WordPress, Squarespace, and Wix users don't need any coding knowledge. Just follow the step-by-step guides.
+
+**Q: Is the widget free to use?**
+A: The widget itself is free! Givelink takes a small transaction fee on donations.
+
+**Q: Will it work on my website?**
+A: Givelink supports WordPress, Squarespace, Wix, and any custom website. If you're using a different platform, try the Native JavaScript integration.
+
+**Q: Can I have multiple donation buttons on the same page?**
+A: Yes! Simply add the button code multiple times on the same page.
+
+**Q: Which platform is easiest to set up?**
+A: WordPress, Wix, and Squarespace are equally easy (5 minutes).
+
+### Technical Questions
+
+**Q: Can I track donations?**
+A: Yes! Use your Givelnk Dashboard to view analytics, donor information, and donation history.
+
+**Q: Will the widget work on mobile?**
+A: Absolutely! The widget is fully responsive and mobile-optimized.
+
+### Troubleshooting Questions
+
+**Q: The widget isn't showing on my page. What do I do?**
+A: Check our [Troubleshooting Guide](troubleshooting.md) for platform-specific solutions.
+
+**Q: Still stuck?**
+A: Contact support at contact@givelink.app or [create an issue on GitHub](https://github.com/givelink/documentation/issues).
+
+---
+
+## 🎯 Best Practices
+
+### Button Placement
+
+✅ **Best Locations:**
+- In the header/navigation bar
+- At the end of your mission statement
+- In the sidebar
+- On a dedicated "Support Us" page
+- In blog posts (below the content)
+
+### Button Text & Messaging
+
+✅ **Good Examples:**
+- "Donate Now"
+- "Give In-Kind"
+- "View Our Needs"
+- "Support [Organization Name]"
+- "Make an Impact"
+
+### Mobile Optimization
+
+- Ensure button is thumb-friendly
+- Test on phones and tablets
+- Use responsive sizing
+
+### Donation Messaging
+
+✅ **Effective Messaging:**
+- Explain what donations support
+- Share impact stories
+- Show exactly where money goes
+- Use specific dollar amounts for context
 
 ---
 
 ## 🆘 Troubleshooting
-
-**Widget not displaying?**
-- Verify you copied the complete code from Givelink
-- Check browser console for JavaScript errors
-- Clear browser cache and reload
 
 **Button not working?**
 - Ensure the button has the correct class or onclick handler
