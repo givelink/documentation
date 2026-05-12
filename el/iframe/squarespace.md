@@ -2,7 +2,7 @@
 
 Ακολουθήστε [αυτό](https://youtu.be/AjSbpcc2uSE) το βίντεο βήμα προς βήμα, ή διαβάστε τα παρακάτω βήματα:
 
-1. Αντιγράψτε τον κωδικό HTML <strong>επιλέγοντας</strong> τον μη κερδοσκοπικό οργανισμό που θέλετε να προωθήσετε από τη [Σελίδα Αντιγραφής Widget](https://givelink.app/charities/widget-gen)
+1. Αντιγράψτε τον κώδικα HTML <strong>επιλέγοντας</strong> την ΜΚΟ που θέλετε να προωθήσετε από τη [Σελίδα Αντιγραφής Widget](https://givelink.app/charities/widget-gen)
 
    ![Αντιγραφή Κωδικού](/assets/widget-assets-greek.png)
 
