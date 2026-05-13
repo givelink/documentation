@@ -1,7 +1,3 @@
-# Documentation
-
-**Language:** [English](en/iframe/landing.md) | [Greek](el/README.md)
-
 Givelink's Official Documentation
 
 ---
