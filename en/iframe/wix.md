@@ -4,7 +4,7 @@ Follow the steps below:
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-   ![Copy Code](/assets/widget-gen.png)
+   ![Copy Code](/assets/widget-assets-english.png)
 
 2. Go to your Wix edit panel.
 3. Navigate to `Website & mobile app > Website`, press edit site on top right

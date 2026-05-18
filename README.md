@@ -1,5 +1,3 @@
-# Documentation
-
 Givelink's Official Documentation
 
 ---
