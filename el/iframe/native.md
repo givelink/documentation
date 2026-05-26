@@ -1,18 +1,42 @@
-# Προσαρμοσμένη Ιστοσελίδα (HTML/JavaScript)
+# Native Javascript
 
 ## Επιλογή Α – Κουμπί
 
-Ένα κουμπί τοποθετείται στη σελίδα σας. Όταν κάποιος το πατήσει, ανοίγει το widget δωρεών του Givelink σε αναδυόμενο παράθυρο.
+Ακολουθήστε [αυτό](https://youtu.be/RYr3XJ6BTF4) το βίντεο βήμα προς βήμα, ή διαβάστε τα παρακάτω βήματα:
 
-1. Αντιγράψτε τον κώδικα ενσωμάτωσης από τη [Γεννήτρια Widget](https://givelink.app/charities/widget-gen)
-2. Επικολλήστε τον κώδικα στο HTML σας (π.χ. πριν το `</body>`)
-3. Προσθέστε ένα κουμπί με την κλάση `givelink-button`:
-   ```html
-   <button class="givelink-button">Δείτε τις Ανάγκες μας</button>
-   ```
-4. Αναπτύξτε τις αλλαγές σας
+1. Αντιγράψτε τον κώδικα HTML <strong>επιλέγοντας</strong> την ΜΚΟ που θέλετε να προωθήσετε από τη [Σελίδα Αντιγραφής Widget](https://givelink.app/charities/widget-gen)
 
-📖 [Δείτε τον πλήρη οδηγό στα αγγλικά →](../../en/iframe/native.md)
+   ![Αντιγραφή Κωδικού](/assets/widget-assets-greek.png)
+
+2. Επικολλήστε τον στον ιστότοπό σας εκεί όπου θέλετε να εμφανίζεται το κουμπί
+
+3. Προσθέστε ένα κουμπί ή σύνδεσμο που έχει `onClick={() => window.Givelink?.open?.()}` ή έχει την κλάση `givelink-button`.
+
+π.χ.
+
+```html
+<button class="givelink-button">Donate</button>
+```
+
+ή
+
+```html
+<button onclick="window.Givelink?.open?.()">Donate</button>
+```
+
+## Typescript
+
+Σε περίπτωση typescript, ενδέχεται να χρειαστεί να επεκτείνετε τον τύπο `window` εάν θέλετε να χρησιμοποιήσετε το `window.Givelink.open()`.
+
+Για να το κάνετε αυτό, πρέπει να προσθέσετε τον παρακάτω κώδικα σε ένα αρχείο `.d.ts` στο έργο σας:
+
+```typescript
+interface Window {
+  Givelink?: {
+    open: () => void;
+  };
+}
+```
 
 ---
 

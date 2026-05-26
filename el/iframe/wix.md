@@ -2,21 +2,45 @@
 
 ## Επιλογή Α – Κουμπί
 
-Ένα κουμπί τοποθετείται στη σελίδα σας. Όταν κάποιος το πατήσει, ανοίγει το widget δωρεών του Givelink σε αναδυόμενο παράθυρο.
+Ακολουθήστε τα παρακάτω βήματα:
 
-1. Αντιγράψτε τον κώδικα ενσωμάτωσης από τη [Γεννήτρια Widget](https://givelink.app/charities/widget-gen)
-2. Προσθέστε ένα στοιχείο **Button** στη σελίδα σας και προσαρμόστε το
-3. Ενεργοποιήστε τη **λειτουργία Dev**, επιλέξτε το κουμπί και ορίστε το ID του ως `givelink-button`
-4. Προσθέστε τον παρακάτω κώδικα στον **Page Code**:
-   ```javascript
-   $w.onReady(function () {
-     $w("#givelink-button").customClassList.add("givelink-button");
-   });
-   ```
-5. Προσθέστε ένα στοιχείο **Custom Code** (body start) και επικολλήστε τον κώδικα ενσωμάτωσης
-6. Αποθηκεύστε και δημοσιεύστε
+1. Αντιγράψτε τον κώδικα HTML <strong>επιλέγοντας</strong> την ΜΚΟ που θέλετε να προωθήσετε από τη [Σελίδα Αντιγραφής Widget](https://givelink.app/charities/widget-gen)
 
-📖 [Δείτε τον πλήρη οδηγό στα αγγλικά →](../../en/iframe/wix.md)
+   ![Αντιγραφή Κωδικού](/assets/widget-assets-greek.png)
+
+2. Μεταβείτε στον πίνακα επεξεργασίας Wix.
+3. Πλοηγηθείτε στο `Website & mobile app > Website`, πατήστε edit site επάνω δεξιά
+
+4. Επιλέξτε Add Element επάνω αριστερά, στη συνέχεια Button
+
+![Προσθήκη Κουμπιού](/assets/wix/wix_add_button.png)
+
+5. Τοποθετήστε το κουμπί στη σελίδα. Μπορείτε ελεύθερα να προσαρμόσετε χρώματα και γραμματοσειρά σύμφωνα με τον ιστότοπό σας.
+6. Από τη γραμμή επάνω, ενεργοποιήστε τη λειτουργία Dev Mode, στη συνέχεια επιλέξτε το κουμπί που μόλις δημιουργήσατε και προσθέστε ως id: `givelink-button`
+
+![Dev Mode](/assets/wix/dev_mode.png)
+
+7. Προσθέστε τον παρακάτω κώδικα στον κώδικα σελίδας:
+
+```javascript
+$w.onReady(function () {
+  $w("#givelink-button").customClassList.add("givelink-button");
+});
+```
+
+![Velo Code](/assets/wix/velo_code.png)
+
+8. Κάντε κλικ στο add element και αναζητήστε Custom code
+
+![Στοιχείο Custom code](/assets/wix/custom_code_element.png)
+
+9. Προσθέστε σε ένα νέο στοιχείο Custom code στην ενότητα body start, επικολλήστε τον κώδικα που αντιγράψατε στο βήμα 1 και πατήστε apply.
+
+![Σελίδα Custom code](/assets/wix/custom_code_page.png)
+
+![Προσθήκη Κώδικα](/assets/wix/add_code.png)
+
+10. Αποθηκεύστε και δημοσιεύστε τον ιστότοπό σας όταν είστε έτοιμοι.
 
 ---
 

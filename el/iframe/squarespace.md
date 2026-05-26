@@ -2,15 +2,36 @@
 
 ## Επιλογή Α – Κουμπί
 
-Ένα κουμπί τοποθετείται στη σελίδα σας. Όταν κάποιος το πατήσει, ανοίγει το widget δωρεών του Givelink σε αναδυόμενο παράθυρο.
+Ακολουθήστε [αυτό](https://youtu.be/AjSbpcc2uSE) το βίντεο βήμα προς βήμα, ή διαβάστε τα παρακάτω βήματα:
 
-1. Αντιγράψτε τον κώδικα ενσωμάτωσης από τη [Γεννήτρια Widget](https://givelink.app/charities/widget-gen)
-2. Προσθέστε ένα μπλοκ **Button** στη σελίδα σας
-3. Ορίστε τον σύνδεσμο του κουμπιού ως `#givelink-button` (αφαιρέστε την επιλογή "Open in new tab")
-4. Μεταβείτε στο **Custom Code → Code Injection** και επικολλήστε τον κώδικα στην ενότητα **Footer**
-5. Αποθηκεύστε και δημοσιεύστε
+1. Αντιγράψτε τον κώδικα HTML <strong>επιλέγοντας</strong> την ΜΚΟ που θέλετε να προωθήσετε από τη [Σελίδα Αντιγραφής Widget](https://givelink.app/charities/widget-gen)
 
-📖 [Δείτε τον πλήρη οδηγό στα αγγλικά →](../../en/iframe/squarespace.md)
+   ![Αντιγραφή Κωδικού](/assets/widget-assets-greek.png)
+
+2. Μεταβείτε στον πίνακα επεξεργασίας Squarespace.
+3. Πλοηγηθείτε από `Website > Pages`, επιλέξτε τη σελίδα στην οποία θέλετε να προσθέσετε το κουμπί και κάντε κλικ στο "Edit"
+
+4. Επιλέξτε Add Block επάνω αριστερά, στη συνέχεια Button
+
+![Προσθήκη Κουμπιού](/assets/squarespace/squarespace-add-button.png)
+
+5. Τοποθετήστε το κουμπί στη σελίδα. Μπορείτε ελεύθερα να προσαρμόσετε χρώματα και γραμματοσειρά σύμφωνα με τον ιστότοπό σας.
+
+6. Στο πεδίο links προσθέστε την εξής διεύθυνση URL: `#givelink-button` και φροντίστε να αφαιρέσετε την επιλογή `Open in new tab`.
+
+![Επεξεργασία Κουμπιού](/assets/squarespace/squarespace-edit-button.png)
+
+7. Αποθηκεύστε και βγείτε
+
+8. Πλοηγηθείτε στο `Custom Code > Code Injection`
+
+![Άνοιγμα Code Injection](/assets/squarespace/squarespace-open-custom-code.png)
+
+9. Επικολλήστε μέσα στην ενότητα `Footer` το script που παρέχεται από το βήμα 1.
+
+![Code Injection](/assets/squarespace/squarespace-code-injection.png)
+
+10. Αποθηκεύστε τις αλλαγές και δημοσιεύστε όταν είστε έτοιμοι.
 
 ---
 
