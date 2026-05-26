@@ -11,7 +11,7 @@
 | Pilgrim Terrace | [pilgrimterrace.org/donate](https://pilgrimterrace.org/donate) | Επιλογή Α – Κουμπί |
 | Swords to Plowshares | [swords-to-plowshares.org](https://www.swords-to-plowshares.org/) | Επιλογή Α – Κουμπί |
 | The KSP | [theksp.org/donate-goods](https://www.theksp.org/donate-goods) | Επιλογή Α – Κουμπί |
-| BOSS | [bosshelp.org/donate-goods](https://bosshelp.org/donate-goods/) | Επιλογή Β – Ενσωματωμένο Widget |
+| BOSS | [bosshelp.org/donate-goods](https://bosshelp.org/donate-goods/) | Ενσωματωμένο Widget |
 | Rock SF | [rocksf.org/donate](https://rocksf.org/donate/) | Σύνδεσμος στο Προφίλ Givelink |
 | Heart to Art Collective | [hearttoartcollective.org](https://sites.google.com/view/hearttoartcollective/get-involved#h.tfcoiq7bsef0) | Σύνδεσμος στο Προφίλ Givelink |
 
@@ -21,9 +21,9 @@
 
 ## Οδηγοί Ενσωμάτωσης
 
-| Πλατφόρμα | Επιλογή Α (Κουμπί) | Επιλογή Β (Inline Widget) |
-|---|---|---|
-| **WordPress** | [Δείτε οδηγό →](wordpress.md#επιλογή-α--κουμπί) | [Δείτε οδηγό →](wordpress.md#επιλογή-β--ενσωματωμένο-widget) |
-| **Squarespace** | [Δείτε οδηγό →](squarespace.md#επιλογή-α--κουμπί) | [Δείτε οδηγό →](squarespace.md#επιλογή-β--ενσωματωμένο-widget) |
-| **Wix** | [Δείτε οδηγό →](wix.md#επιλογή-α--κουμπί) | [Δείτε οδηγό →](wix.md#επιλογή-β--ενσωματωμένο-widget) |
-| **Προσαρμοσμένη Ιστοσελίδα** | [Δείτε οδηγό →](native.md#επιλογή-α--κουμπί) | [Δείτε οδηγό →](native.md#επιλογή-β--ενσωματωμένο-widget) |
+| Πλατφόρμα | Οδηγός |
+|---|---|
+| **WordPress** | [Δείτε οδηγό →](wordpress.md) |
+| **Squarespace** | [Δείτε οδηγό →](squarespace.md) |
+| **Wix** | [Δείτε οδηγό →](wix.md) |
+| **Προσαρμοσμένη Ιστοσελίδα** | [Δείτε οδηγό →](native.md) |
