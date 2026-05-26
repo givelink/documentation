@@ -2,6 +2,7 @@
 
 | Want to... | Go to... |
 |-----------|----------|
+| **See real nonprofit examples** | [Examples](examples.md) |
 | **Add widget to WordPress** | [WordPress Guide](wordpress.md) |
 | **Add widget to Squarespace** | [Squarespace Guide](squarespace.md) |
 | **Add widget to Wix** | [Wix Guide](wix.md) |
@@ -26,6 +27,7 @@
 | **Squarespace** | 5 min | Beginner | [View Guide →](squarespace.md) |
 | **Wix** | 5 min | Beginner | [View Guide →](wix.md) |
 | **Custom Website** | 10 min | Beginner | [View Guide →](native.md) |
+| **Real-World Examples** | — | — | [View Examples →](examples.md) |
 
 ---
 
@@ -85,7 +87,7 @@ A: WordPress, Wix, and Squarespace are equally easy (5 minutes).
 ### Technical Questions
 
 **Q: Can I track donations?**
-A: Yes! Use your Givelnk Dashboard to view analytics, donor information, and donation history.
+A: Yes! Use your Givelink Dashboard to view analytics, donor information, and donation history.
 
 **Q: Will the widget work on mobile?**
 A: Absolutely! The widget is fully responsive and mobile-optimized.
