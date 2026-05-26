@@ -1,5 +1,7 @@
 # WordPress Integration
 
+## Option A – Button
+
 Follow [this](https://youtu.be/_UqKMOnC1_0) step by step video, or read the steps below:
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
@@ -30,3 +32,16 @@ Follow [this](https://youtu.be/_UqKMOnC1_0) step by step video, or read the step
 ![Add CSS Class](/assets/wp/wp-button-classname.png)
 
 9. Save changes and publish when you are ready.
+
+---
+
+## Option B – Inline Widget
+
+The widget is displayed directly on the page — no button click needed. Visitors see it immediately when they arrive.
+
+1. In the [Widget Generator](https://givelink.app/charities/widget-gen), select the **Inline** tab and copy the embed code
+2. In your WordPress editor, add a **Custom HTML** block where you want the widget to appear
+3. Paste the inline embed code into the block
+4. Save and publish
+
+> 💡 **Tip:** The inline embed code (Option B) is different from the popup script (Option A). Make sure to select the correct tab in the Widget Generator.

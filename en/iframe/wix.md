@@ -1,5 +1,7 @@
 # Wix Integration
 
+## Option A – Button
+
 Follow the steps below:
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
@@ -40,3 +42,16 @@ $w.onReady(function () {
 ![Add Code](/assets/wix/add_code.png)
 
 10. Save and publish your site when you are ready.
+
+---
+
+## Option B – Inline Widget
+
+The widget is displayed directly on the page — no button click needed. Visitors see it immediately when they arrive.
+
+1. In the [Widget Generator](https://givelink.app/charities/widget-gen), select the **Inline** tab and copy the embed code
+2. In the Wix editor, click **Add Element → Embed → Embed HTML**
+3. Paste the inline embed code and resize the element to fit your layout
+4. Save and publish
+
+> 💡 **Tip:** The inline embed code (Option B) is different from the popup script (Option A). Make sure to select the correct tab in the Widget Generator.
