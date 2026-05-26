@@ -2,6 +2,7 @@
 
 | Want to... | Go to... |
 |-----------|----------|
+| **See real nonprofit examples** | [Examples](examples.md) |
 | **Add widget to WordPress** | [WordPress Guide](wordpress.md) |
 | **Add widget to Squarespace** | [Squarespace Guide](squarespace.md) |
 | **Add widget to Wix** | [Wix Guide](wix.md) |
@@ -27,6 +28,7 @@
 | **Squarespace** | 5 min | Beginner | [View Guide →](squarespace.md) |
 | **Wix** | 10 min | Beginner | [View Guide →](wix.md) |
 | **Native JavaScript** | 10 min | Intermediate | [View Guide →](native.md) |
+| **Real-World Examples** | — | — | [View Examples →](examples.md) |
 
 ---
 
