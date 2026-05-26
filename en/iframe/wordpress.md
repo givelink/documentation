@@ -6,7 +6,7 @@ Follow [this](https://youtu.be/_UqKMOnC1_0) step by step video, or read the step
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-   ![Copy Code](/assets/widget-gen.png)
+   ![Copy Code](/assets/widget-assets-english.png)
 
 2. Go to your WordPress admin panel and log in.
 

@@ -6,7 +6,7 @@ Follow [this](https://youtu.be/RYr3XJ6BTF4) step by step video, or read the step
 
 1. Copy the html code by <strong>selecting</strong> the non profit that you want to promote from our [Widget Copy Page](https://givelink.app/charities/widget-gen)
 
-   ![Copy Code](/assets/widget-gen.png)
+   ![Copy Code](/assets/widget-assets-english.png)
 
 2. Paste it into your website where you want the button to appear
 
