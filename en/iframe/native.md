@@ -22,6 +22,8 @@ or
 <button onclick="window.Givelink?.open?.()">Donate</button>
 ```
 
+---
+
 ## Typescript
 
 In case of typescript, you may need to extend the `window` type if you want to use `window.Givelink.open()`.

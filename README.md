@@ -7,6 +7,7 @@
 | Topic | Link |
 |-------|------|
 | **Widget Integration** | [Widget Guide](en/iframe/landing.md) |
+| **Real-World Examples** | [Examples](en/iframe/examples.md) |
 
 ---
 

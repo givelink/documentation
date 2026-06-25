@@ -2,6 +2,7 @@
 
 | Θέλετε να... | Μεταβείτε στο... |
 |-----------|----------|
+| **Δείτε πραγματικά παραδείγματα ΜΚΟ** | [Παραδείγματα](examples.md) |
 | **Προσθέσετε το widget στο WordPress** | [Οδηγός WordPress](wordpress.md) |
 | **Προσθέσετε το widget στο Squarespace** | [Οδηγός Squarespace](squarespace.md) |
 | **Προσθέσετε το widget στο Wix** | [Οδηγός Wix](wix.md) |
